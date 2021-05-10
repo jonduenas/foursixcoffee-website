@@ -34,16 +34,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Built using a World Champion's method
-    description                           : Invented by Tetsu Kasuya, the 4:6 method gives you consistency and flexibility to bring out the best in any coffee you use.
+  - title                                 : Use a World Champion's method
+    description                           : Invented by Tetsu Kasuya to win the 2016 World Brewer's Cup, the 4:6 method gives you consistency and flexibility to bring out the best in any coffee you use.
     fontawesome_icon_name                 : trophy
     
-  - title                                 : 3 easy steps to great coffee
+  - title                                 : 3 easy steps
     description                           : Choose how much coffee you want, a flavor profile, and a brew strength, and FourSix builds a recipe to match.
     fontawesome_icon_name                 : mug-hot
 
   - title                                 : Preview your pours
-    description                           : See a graph of how your total water is divided and how your choices change the recipe.
+    description                           : FourSix builds a graph of how your total water is divided to show how your choices change the recipe.
     fontawesome_icon_name                 : chart-pie
     
   - title                                 : Easy to follow Timer
@@ -51,7 +51,7 @@ features                                  :
     fontawesome_icon_name                 : stopwatch
     
   - title                                 : Customizable
-    description                           : With FourSix Pro, tweak everything from brew dose, coffee:water ratio, and pour intervals.
+    description                           : With FourSix Pro, tweak everything from brew dose, coffee:water ratio, and pour intervals to get your perfect cup.
     fontawesome_icon_name                 : sliders-h
   
   - title                                 : Brew Notes
