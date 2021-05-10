@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/Icon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Makes pour over coffee simple enough for anyone.
+app_description                           : FourSix makes brewing pour over coffee easy.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -34,41 +34,29 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Built using a World Champion's method
+    description                           : Invented by Tetsu Kasuya, the 4:6 method gives you consistency and flexibility to bring out the best in any coffee you use.
+    fontawesome_icon_name                 : trophy-alt
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : 3 easy steps to great coffee
+    description                           : Choose how much coffee you want, a flavor profile, and a brew strength, and FourSix builds a recipe to match.
+    fontawesome_icon_name                 : mug-hot
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
-
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Preview your pours
+    description                           : See a graph of how your total water is divided and how your choices change the recipe.
+    fontawesome_icon_name                 : chart-pie
+    
+  - title                                 : Easy to follow Timer
+    description                           : See at a glance how much time has passed, how much water to pour, and get notified when it's time to pour more.
+    fontawesome_icon_name                 : stopwatch
+    
+  - title                                 : Customizable
+    description                           : With FourSix Pro, tweak everything from brew dose, coffee:water ratio, and pour intervals.
+    fontawesome_icon_name                 : sliders-h
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Brew Notes
+    description                           : Save the details of every brew and add your own ratings and notes for future reference.
+    fontawesome_icon_name                 : book
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
