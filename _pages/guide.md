@@ -11,12 +11,12 @@ Simply pick a flavor balance between sweet, even, or bright, and then your desir
 
 To start, you’ll need:
 
-	•	Hario V60 dripper cone
-	•	Filter (paper is standard, but other types can work too)
-	•	Pouring kettle (narrow spout)
-	•	Digital scale
-	•	Coarsely ground coffee
-	•	Fresh, clean water (ideally not too hard and not too soft)
+* Hario V60 dripper cone
+* Filter (paper is standard, but other types can work too)
+* Pouring kettle (narrow spout)
+* Digital scale
+* Coarsely ground coffee
+* Fresh, clean water (ideally not too hard and not too soft)
 
 Once you have your recipe, heat your water to about 92º C / 198º F. If you don’t have a thermometer, just heat till boiling and let cool for at least 30 seconds. Darker roasted coffee benefits from letting it cool longer.
 
