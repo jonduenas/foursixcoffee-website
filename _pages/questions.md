@@ -1,10 +1,10 @@
 ---
 layout: page
-title: FAQ
+title: Q & A
 include_in_header: true
 ---
 
-# FAQ
+# Frequently Asked Questions
 Here are some common questions or issues you might have.
 
 ### Q: What should my coffee grind size be?
