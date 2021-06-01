@@ -119,6 +119,7 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - changelog.md
 
 collections:
   pages:
