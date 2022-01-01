@@ -6,11 +6,13 @@ include_in_header: false
 
 **Last updated**
 
-June 1, 2021
+January 1, 2022
 
 ## Privacy Policy
 
-FourSix (the "App"), which is owned and developed by Jon Duenas, does not collect any personally identifiable information about any users who install the app.
+FourSix (the "App"), which is owned and developed by Jon Duenas, does not collect any personally identifiable information about any users who install the app. Please don't send me your personal info. I have a hard enough time keeping track of my own info.
+
+The App uses Telemetry Deck for collecting anonymous analytics data on the usage of the App for the purpose of making improvements. Telemetry Deck assigns a random anonymous user identifier, but no personally identifiable information is included.
 
 The App uses Apple as a payment provider for in-app purchases of premium features. Apple's Privacy Policy can be found at https://www.apple.com/legal/privacy/en-ww/
 
