@@ -32,5 +32,8 @@ A: Like the previous answer, each pour should drain entirely before starting the
 ### Q: Can I use this app with something besides a V60? Like a Chemex? Or a Kalita Wave?
 A: The 4:6 method was originally designed for the V60. However, pour over brewing is generally going to be similar no matter what device you use – manually pouring water that passes through coffee grounds with a filter. You may need to adjust some variables, but try it out and send your feedback.
 <br>
+### Q: I did the math myself, and *actually* the pours don't add up to the total water. It's off by 1 gram.
+A: This is an intended result. My goal for this app was to take a complicated process and simplify it as much as possible, while still producing great results. The intention is not to provide perfect, scientific precision and accuracy. The coffee and water amounts are always rounded to whole gram amounts. In my own years of experience brewing specialty coffee, a gram or 2 difference in water or coffee is not likely to make a big difference in your result. If I show the full decimal amounts, it may give the impression that precision is important, and consequently many users may stress out trying to get it exactly right. Instead, I want my app to be a relatively relaxing and simple experience. If you find that the math is actually off by more than a gram, you can reach out via email with the recipe you used and I'll check out what's going on.
+<br>
 ### Q: I have an issue or question not listed here.
 A: Get in touch on Twitter – @FourSixCoffee. Or email me at jon@foursixcoffeeapp.com.
