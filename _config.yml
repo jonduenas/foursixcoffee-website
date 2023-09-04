@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : sliders-h
   
   - title                                 : Brew Notes
-    description                           : Save the details of every brew, add your own ratings, and write notes for future reference.
+    description                           : Save the details of every brew, add your own ratings, and write notes for future reference. Exclusively for FourSix Pro users.
     fontawesome_icon_name                 : book
 
   - title                                 : # New Feature Title
