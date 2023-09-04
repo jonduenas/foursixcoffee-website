@@ -120,6 +120,7 @@ exclude:
   - README.md
   - CNAME
   - /_pages/changelog.md
+  - vendor
 
 collections:
   pages:
