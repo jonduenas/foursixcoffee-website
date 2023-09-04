@@ -56,7 +56,6 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 #### What's New
 - Much far proper exotically precise unaccountable.
 - Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
 
 #### Bug Fixes
 - Improved user sign up experience.
